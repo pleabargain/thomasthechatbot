@@ -14,16 +14,12 @@ ttc
 in the command line.
 
 # first interaction
+## tip open new issue on github, paste image, get URL, paste!
 ![image](https://user-images.githubusercontent.com/640846/201272702-ad6bc058-6569-407a-b71d-a91d99a14227.png)
 
-Not super useful. Not clear on how to train the brain(s).
+The chatbot is not super smart. Not clear on how to train the brain(s) either.
 
-<div align="center">
-    <img src="https://i.imgur.com/hA9YF2s.png" alt="Thomas" width="220" height="220">
-    <h1>Thomas the Chatbot</h1>
-</div>
-
-![Demo](https://i.imgur.com/Jet4UGh.gif)
+# original README below
 
 # Installation
 
