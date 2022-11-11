@@ -1,3 +1,23 @@
+# forked
+
+run
+
+```
+
+pip install thomasthechatbot
+
+```
+then type
+```
+ttc
+```
+in the command line.
+
+# first interaction
+![image](https://user-images.githubusercontent.com/640846/201272702-ad6bc058-6569-407a-b71d-a91d99a14227.png)
+
+Not super useful. Not clear on how to train the brain(s).
+
 <div align="center">
     <img src="https://i.imgur.com/hA9YF2s.png" alt="Thomas" width="220" height="220">
     <h1>Thomas the Chatbot</h1>
@@ -12,7 +32,9 @@
 This package can be installed from [PyPi](https://pypi.org/project/thomasthechatbot/) with:
 
 ```
+
 pip install thomasthechatbot
+
 ```
 
 ## CLI
